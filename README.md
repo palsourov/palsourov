@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co.com/9mpnH8Zm/Sourov.jpg" alt="Banner" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm sourov pal</h1>
