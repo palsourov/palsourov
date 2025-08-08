@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sourov pal" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=palsourov" alt="GitHub Streak" />
 </p> 
 
 <p align="center">
