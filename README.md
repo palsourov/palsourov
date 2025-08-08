@@ -8,8 +8,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Web+Developer;Frontend+Developer;MERN+Stack+Developer;" alt="Typing SVG" align=left/></a>
 </div>
 <h2>💫 About Me</h2> 
-<p >I’m a frontend developer with a strong focus on crafting clean, responsive, and accessible web interfaces. I specialize in HTML, CSS, JavaScript, and React. I enjoy turning design concepts into fully functional products that prioritize performance and user experience.</p>
---
+<p width="70%" >I’m a frontend developer with a strong focus on crafting clean, responsive, and accessible web interfaces. I specialize in HTML, CSS, JavaScript, and React. I enjoy turning design concepts into fully functional products that prioritize performance and user experience.</p>
+
 - 🔭 I’m currently working on **University Clubs Management System**
 
 - 🌱 I’m currently learning **React ,JS , Node js**
