@@ -1,11 +1,11 @@
 
 <img src="https://i.ibb.co/9mpnH8Zm/Sourov.jpg" alt="Banner" width="100%" height="40%" />
 
-
-<h1 align="center">Hi 👋, I'm sourov pal</h1>
-<div align="left">
+  <div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A passionate frontend developer from Bangladesh;Frontend+Developer;" alt="Typing SVG" align=center/></a>
 </div>
+<h1 align="center">Hi 👋, I'm sourov pal</h1>
+
 
 
 - 🔭 I’m currently working on **University Clubs Management System**
