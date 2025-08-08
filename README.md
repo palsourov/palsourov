@@ -1,8 +1,8 @@
 
 <img src="https://i.ibb.co/9mpnH8Zm/Sourov.jpg" alt="Banner" width="100%" height="40%" />
 
-  <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A passionate frontend developer from Bangladesh;Frontend+Developer;" alt="Typing SVG" align=center/></a>
+ <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Web+Developer;Frontend+Developer;MERN+Stack+Developer;" alt="Typing SVG" align=center/></a>
 </div>
 <h1 align="center">Hi 👋, I'm sourov pal</h1>
 
