@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co.com/9mpnH8Zm/Sourov.jpg" alt="Banner" width="100%"  hight="70%" />
+<img src="https://i.ibb.co/9mpnH8Zm/Sourov.jpg" alt="Banner" width="100%" height="40%" />
+
 
 
 <h1 align="center">Hi 👋, I'm sourov pal</h1>
