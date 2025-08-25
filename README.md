@@ -4,11 +4,11 @@
 
 I’m a frontend developer with a strong focus on crafting clean, responsive, and accessible web interfaces. I specialize in HTML, CSS, JavaScript, and React. I enjoy turning design concepts into fully functional products that prioritize performance and user experience.
 
-Skills:   REACT / JS / HTML / CSS
+🛠 Skills: **React / JS / HTML / CSS**
 
-- 🔭 I’m currently working on University Clubs Management Systems 
-- 🌱 I’m currently learning React ,JS , Node js 
-- 💬 Ask me about React , JS , HTML,CSS 
+- 🔭 I’m currently working on **University Clubs Management Systems**  
+- 🌱 I’m currently learning **React, JS, Node.js**  
+- 💬 Ask me about **React, JS, HTML, CSS**  
 - 📫 How to reach me: sourovpal070@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
