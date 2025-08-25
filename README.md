@@ -2,6 +2,7 @@
 #### I am Frontend Developer
 ![I am Frontend Developer](https://i.ibb.co.com/c7XQKNR/Chat-GPT-Image-Aug-25-2025-08-17-26-PM.png)
 
+<h1>About Me <span style="color:#ff5733;">&#128075;</span></h1>
 I’m a frontend developer with a strong focus on crafting clean, responsive, and accessible web interfaces. I specialize in HTML, CSS, JavaScript, and React. I enjoy turning design concepts into fully functional products that prioritize performance and user experience.
 
 🛠 Skills: **React / JS / HTML / CSS**
