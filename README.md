@@ -1,5 +1,5 @@
 
-<img src="[https://i.ibb.co/9mpnH8Zm/Sourov.jpg](https://i.ibb.co.com/c7XQKNR/Chat-GPT-Image-Aug-25-2025-08-17-26-PM.png)" alt="Banner" width="100%" height="40%" />
+<img src="https://i.ibb.co.com/c7XQKNR/Chat-GPT-Image-Aug-25-2025-08-17-26-PM.png" alt="Banner" width="100%" height="40%" />
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  I'm sourov pal</h1>
